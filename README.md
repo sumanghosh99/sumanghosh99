@@ -1,6 +1,7 @@
 ![Design and Development](https://github.com/sumanghosh99/sumanghosh99/blob/main/Screenshot%20(570).png)
 
 # About
+Hello,
 I'm Suman Ghosh from Kolkata, and I am currently learning full-stack web development at Masai school, Bangalore. I really enjoy learning languages and frameworks like React, as well as work on many MERN stack projects. I'm specialized in JavaScript technologies across the MERN stack (MongoDB,Express,React,Node.js) and also experienced in building complete web applications with API systems.
 
 ## Programming languages:
@@ -10,7 +11,6 @@ I'm Suman Ghosh from Kolkata, and I am currently learning full-stack web develop
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 <br/>
