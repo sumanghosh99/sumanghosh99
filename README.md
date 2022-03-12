@@ -9,7 +9,6 @@ I'm Suman Ghosh from Kolkata, and I am currently learning full-stack web develop
 - 📫 Feel free to connect with me here<br><br>
 
 ## Programming languages:
-<hr>
  <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
